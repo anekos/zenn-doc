@@ -68,7 +68,7 @@ brew install poppler librsvg
 
 ```lua
 {
-  "your-username/preview-on-console",
+  "anekos/preview-on-console.nvim",
   config = function()
     require('preview-on-console').setup()
   end
@@ -79,7 +79,7 @@ brew install poppler librsvg
 
 ```lua
 use {
-  'your-username/preview-on-console',
+  'anekos/preview-on-console.nvim',
   config = function()
     require('preview-on-console').setup()
   end
