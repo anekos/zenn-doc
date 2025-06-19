@@ -12,6 +12,8 @@ published: false
 
 そんな悩みを解決する **Preview on Console** プラグインを紹介します。このプラグインを使えば、Neovim上でファイルパスにカーソルを移動するだけで、ターミナル上に自動的に画像がプレビュー表示されます。
 
+**プラグインのリポジトリ**: https://github.com/anekos/preview-on-console.nvim
+
 ![プラグインのスクリーンショット](/images/preview-on-console-screenshot.jpg)
 
 ## 特徴
